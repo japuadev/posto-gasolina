@@ -1,2 +1,7 @@
-# posto-gasolina
-Sistema de posto de gasolina em VisuAlg para atender ao curso de lógica de programação da Tascom Academy Dev.
+<h1>Sistema para Posto de Gasolina - Projeto Tascom</h1>
+Projeto em VisuAlg para conclusão do curso de lógica de programação 
+para Tascom Code Academy. 
+
+<h3>✅ Status do projeto</h3>
+<p>Concluído!</p>
+
